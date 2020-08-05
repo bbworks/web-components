@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 16rem;
+  padding: 1rem;
+  font-family: sans-serif;
+  background-color: rgb(235 235 255);
+}
